@@ -42,7 +42,7 @@ const Hero = () => {
               <div className="absolute z-[2] top-0 left-0 right-0 bottom-0 w-full h-full container mx-auto text-center flex flex-col gap-5 items-center justify-center text-orange-50 md:p-20">
                 <h1 className="text-5xl md:text-7xl font-bold">
                   Welcome to the Culinary Haven. <br /> Here anything you want
-                  to eat is just a few clicks away.
+                  to eat is just a few clicks away. Just give it a try.
                 </h1>
                 <p className="md:text-xl">
                   Food ordering has never been easier. Just follow the simple
